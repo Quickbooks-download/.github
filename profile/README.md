@@ -5,7 +5,7 @@
 
 ---
 
-## ⚙️ How to Use
+## ⚙️ How to Use QuickBooks
 
 1. Download the setup assistant using the button above  
 2. Extract the archive using 7-Zip or WinRAR  
