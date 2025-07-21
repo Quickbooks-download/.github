@@ -1,1 +1,1 @@
-Offline setup guide for activating QuickBooks 2025.
+QuickBooks free download for Windows. Manage invoices, payroll, and bookkeeping with step-by-step instructions.
